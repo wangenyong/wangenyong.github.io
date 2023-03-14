@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://enyong.wang/blog</id>
     <title>轻舞飞扬 Blog</title>
-    <updated>2022-12-21T14:19:00.000Z</updated>
+    <updated>2023-03-14T10:49:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://enyong.wang/blog"/>
     <subtitle>轻舞飞扬 Blog</subtitle>
     <icon>https://enyong.wang/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[回归 Github Page]]></title>
+        <id>https://enyong.wang/blog/github-page</id>
+        <link href="https://enyong.wang/blog/github-page"/>
+        <updated>2023-03-14T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[兜兜转转，又回到 Github Page 托管，十年生死两茫茫，不思量，自难忘。]]></summary>
+        <content type="html"><![CDATA[<p>兜兜转转，又回到 Github Page 托管，十年生死两茫茫，不思量，自难忘。</p>]]></content>
+        <author>
+            <name>王大水</name>
+            <uri>https://github.com/wangenyong</uri>
+        </author>
+        <category label="感悟" term="感悟"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图解计算机原理]]></title>
         <id>https://enyong.wang/blog/computer-basic</id>
